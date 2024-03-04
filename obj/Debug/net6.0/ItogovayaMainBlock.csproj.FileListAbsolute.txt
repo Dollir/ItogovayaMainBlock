@@ -1,0 +1,15 @@
+C:\Users\Доллир\OneDrive\Рабочий стол\ItogovayaMainBlock\ItogovayaMainBlock\obj\Debug\net6.0\ItogovayaMainBlock.csproj.AssemblyReference.cache
+C:\Users\Доллир\OneDrive\Рабочий стол\ItogovayaMainBlock\ItogovayaMainBlock\obj\Debug\net6.0\ItogovayaMainBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Доллир\OneDrive\Рабочий стол\ItogovayaMainBlock\ItogovayaMainBlock\obj\Debug\net6.0\ItogovayaMainBlock.AssemblyInfoInputs.cache
+C:\Users\Доллир\OneDrive\Рабочий стол\ItogovayaMainBlock\ItogovayaMainBlock\obj\Debug\net6.0\ItogovayaMainBlock.AssemblyInfo.cs
+C:\Users\Доллир\OneDrive\Рабочий стол\ItogovayaMainBlock\ItogovayaMainBlock\obj\Debug\net6.0\ItogovayaMainBlock.csproj.CoreCompileInputs.cache
+C:\Users\Доллир\OneDrive\Рабочий стол\ItogovayaMainBlock\ItogovayaMainBlock\bin\Debug\net6.0\ItogovayaMainBlock.exe
+C:\Users\Доллир\OneDrive\Рабочий стол\ItogovayaMainBlock\ItogovayaMainBlock\bin\Debug\net6.0\ItogovayaMainBlock.deps.json
+C:\Users\Доллир\OneDrive\Рабочий стол\ItogovayaMainBlock\ItogovayaMainBlock\bin\Debug\net6.0\ItogovayaMainBlock.runtimeconfig.json
+C:\Users\Доллир\OneDrive\Рабочий стол\ItogovayaMainBlock\ItogovayaMainBlock\bin\Debug\net6.0\ItogovayaMainBlock.dll
+C:\Users\Доллир\OneDrive\Рабочий стол\ItogovayaMainBlock\ItogovayaMainBlock\bin\Debug\net6.0\ItogovayaMainBlock.pdb
+C:\Users\Доллир\OneDrive\Рабочий стол\ItogovayaMainBlock\ItogovayaMainBlock\obj\Debug\net6.0\ItogovayaMainBlock.dll
+C:\Users\Доллир\OneDrive\Рабочий стол\ItogovayaMainBlock\ItogovayaMainBlock\obj\Debug\net6.0\refint\ItogovayaMainBlock.dll
+C:\Users\Доллир\OneDrive\Рабочий стол\ItogovayaMainBlock\ItogovayaMainBlock\obj\Debug\net6.0\ItogovayaMainBlock.pdb
+C:\Users\Доллир\OneDrive\Рабочий стол\ItogovayaMainBlock\ItogovayaMainBlock\obj\Debug\net6.0\ItogovayaMainBlock.genruntimeconfig.cache
+C:\Users\Доллир\OneDrive\Рабочий стол\ItogovayaMainBlock\ItogovayaMainBlock\obj\Debug\net6.0\ref\ItogovayaMainBlock.dll
