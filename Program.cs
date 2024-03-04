@@ -15,12 +15,13 @@ string[] CheckArrayElements(string[] array)
 {
     string[] NewArray = new string[array.Length];
     int count =0;
-    for(int i=0; i<array.Length;i++)
+    for(int i=0, j=0; i<array.Length;i++)
     {
         if(array[i].Length<=3)
         {
-            NewArray[i] = array[i];
+            NewArray[j] = array[i];
             count++;
+            j++;
         }
     }
     string[] FinalNewArray = new string[count];
